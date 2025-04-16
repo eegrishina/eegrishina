@@ -2,48 +2,33 @@
 
 Frontend developer focused on building responsive and user-friendly interfaces using React.js.
 
----
 
-## 🛠️ Tech Stack & Skills
+## Skills
 
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks & Libraries**: React, React Router, Redux Toolkit, Styled-components, Sass
+- **Frameworks & Libraries**: React, React Router, Redux Toolkit, styled-components, SASS
 - **Tools**: Git, VSCode, Figma, Postman, DevTools, Swagger
 - **Practices**: Responsive & cross-browser design, REST API integration, form validation, async/await, debugging
 
----
 
-## My Projects
+## Projects
 
-### 🚁 Drone Pharmacy
-Web application for medicine ordering and drone delivery.  
+### 🚁 [Drone Pharmacy](https://github.com/eegrishina/drone-pharmacy)
+Web application for medicine ordering and drone delivery built with React in collaboration with a backend server.  
 Features product listing, cart with localStorage, server communication (GET, POST), pagination, and error handling.
 
-🔗 [View project](https://github.com/eegrishina/drone-pharmacy)
-
----
-
-### 🛥 Nautica Yacht School Website
+### 🛥 [Nautica Yacht School](https://github.com/eegrishina/nautika)
 Multi-page responsive website built with React and React Router, based on a Figma design.  
 Includes forms for user application, navigation, and adaptive layout for all screen sizes.
 
-🔗 [View project](https://github.com/eegrishina/nautika)
-
----
-
-#### 🎨 Art Gallery
+### 🎨 [Art Gallery](https://github.com/eegrishina/art-gallery)
 SPA image gallery catalog built with React and Redux.
-
-🔗 [View project](https://github.com/eegrishina/art-gallery)
-
----
 
 ### 🧩 [Hangman Game](https://github.com/eegrishina/hangman) and [Tic-Tac-Toe](https://github.com/eegrishina/tic-tac-toe)
 Simple single-page games with TypeScript and React.
 
----
 
-### 📫 How to reach me
+## Contacts
 
 - Email: grishina.ekaterina.e@gmail.com
 - Telegram: [@eegrishina](https://t.me/eegrishina)
